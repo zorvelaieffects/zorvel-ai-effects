@@ -33,31 +33,31 @@ See current options on the [effects page](https://zorvel.app/effects).
 
 **Official**
 
-- Homepage: https://zorvel.app/
-- Effects page: https://zorvel.app/effects
-- Homepage (Korean, Google Translate): https://zorvel-app.translate.goog/?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=zh-CN&_x_tr_pto=wapp
-- Homepage (English, Google Translate): https://zorvel-app.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=wapp
-- Effects page (Korean, Google Translate): https://zorvel-app.translate.goog/effects?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=zh-CN&_x_tr_pto=wapp
+- [Homepage](https://zorvel.app/)
+- [Effects page](https://zorvel.app/effects)
+- [Homepage (Korean, Google Translate)](https://zorvel-app.translate.goog/?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=zh-CN&_x_tr_pto=wapp)
+- [Homepage (English, Google Translate)](https://zorvel-app.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=wapp)
+- [Effects page (Korean, Google Translate)](https://zorvel-app.translate.goog/effects?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=zh-CN&_x_tr_pto=wapp)
 
 **Also available**
 
-- Intro page: https://zorvel-ai-effects.lovable.app/
-- Blog: https://zorvel-ai-effects.blogspot.com/
-- Blog post: https://zorvel-ai-effects.blogspot.com/2026/11/ai-cartoon-filter-and-photo-to-ai-video.html
-- Google Sites: https://sites.google.com/view/zorvel-ai-effects/
-- TAAFT profile: https://theresanaiforthat.com/@zhou-guowei/
-- TAAFT tool: https://theresanaiforthat.com/@zhou-guowei/photo-effect-prompt-helper/
-- Substack: https://zorvelaieffects.substack.com/
-- Substack post: https://zorvelaieffects.substack.com/p/ai-cartoon-filter-and-photo-to-ai
-- Medium profile: https://medium.com/@guoweizhou0216
-- Medium article: https://medium.com/@guoweizhou0216/ai-cartoon-filter-and-photo-to-ai-video-effect-a-look-at-zorvel-ec502c4b0bdd
-- Hashnode blog: https://zorvel-ai-effects.hashnode.dev/
-- Hashnode profile: https://hashnode.com/@zorvel-ai-effects
-- note.com profile: https://note.com/zorvelaieffects
-- note.com article: https://note.com/zorvelaieffects/n/nd8fe3c77d80a
-- w2solo profile: https://w2solo.com/zorvelaieffects
-- Hacker News profile: https://news.ycombinator.com/user?id=zorvelaieffects
-- dev.to profile: https://dev.to/zhou_guowei_ca1c7dc6600a0
-- dev.to article: https://dev.to/zhou_guowei_ca1c7dc6600a0/what-an-ai-cartoon-filter-and-a-short-photo-to-video-effect-can-actually-do-222
-- Qiita profile: https://qiita.com/zorvelaieffects
-- CSDN profile: https://blog.csdn.net/2611_97526118
+- [Intro page](https://zorvel-ai-effects.lovable.app/)
+- [Blog](https://zorvel-ai-effects.blogspot.com/)
+- [Blog post](https://zorvel-ai-effects.blogspot.com/2026/11/ai-cartoon-filter-and-photo-to-ai-video.html)
+- [Google Sites](https://sites.google.com/view/zorvel-ai-effects/)
+- [TAAFT profile](https://theresanaiforthat.com/@zorvelaieffects/)
+- [TAAFT tool](https://theresanaiforthat.com/@zorvelaieffects/photo-effect-prompt-helper/)
+- [Substack](https://zorvelaieffects.substack.com/)
+- [Substack post](https://zorvelaieffects.substack.com/p/ai-cartoon-filter-and-photo-to-ai)
+- [Medium profile](https://medium.com/@zorvelaieffects)
+- [Medium article](https://medium.com/@zorvelaieffects/ai-cartoon-filter-and-photo-to-ai-video-effect-a-look-at-zorvel-ec502c4b0bdd)
+- [Hashnode blog](https://zorvel-ai-effects.hashnode.dev/)
+- [Hashnode profile](https://hashnode.com/@zorvel-ai-effects)
+- [note.com profile](https://note.com/zorvelaieffects)
+- [note.com article](https://note.com/zorvelaieffects/n/nd8fe3c77d80a)
+- [w2solo profile](https://w2solo.com/zorvelaieffects)
+- [Hacker News profile](https://news.ycombinator.com/user?id=zorvelaieffects)
+- [dev.to profile](https://dev.to/zorvelaieffects)
+- [dev.to article](https://dev.to/zorvelaieffects/what-an-ai-cartoon-filter-and-a-short-photo-to-video-effect-can-actually-do-222)
+- [Qiita profile](https://qiita.com/zorvelaieffects)
+- [CSDN profile](https://blog.csdn.net/2611_97526118)
